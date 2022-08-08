@@ -1,0 +1,10 @@
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.csproj.AssemblyReference.cache
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.AssemblyInfoInputs.cache
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.AssemblyInfo.cs
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.csproj.CoreCompileInputs.cache
+D:\Download\iDentalSoft_ex1\BUS\bin\Debug\netstandard2.1\BUS.deps.json
+D:\Download\iDentalSoft_ex1\BUS\bin\Debug\netstandard2.1\BUS.dll
+D:\Download\iDentalSoft_ex1\BUS\bin\Debug\netstandard2.1\BUS.pdb
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.dll
+D:\Download\iDentalSoft_ex1\BUS\obj\Debug\netstandard2.1\BUS.pdb

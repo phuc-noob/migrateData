@@ -1,0 +1,5 @@
+D:\Download\iDentalSoft_ex1\DAO\obj\Debug\netstandard2.1\DAO.csproj.AssemblyReference.cache
+D:\Download\iDentalSoft_ex1\DAO\obj\Debug\netstandard2.1\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\iDentalSoft_ex1\DAO\obj\Debug\netstandard2.1\DAO.AssemblyInfoInputs.cache
+D:\Download\iDentalSoft_ex1\DAO\obj\Debug\netstandard2.1\DAO.AssemblyInfo.cs
+D:\Download\iDentalSoft_ex1\DAO\obj\Debug\netstandard2.1\DAO.csproj.CoreCompileInputs.cache

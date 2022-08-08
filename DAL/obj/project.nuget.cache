@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCyau5V9MYkRXIYqhqa1sKu5pdiRTi1aZZjxyRiOP+2zZ0FWuJTv44O+NyNdrWo1IBYlf1JGcDdtf6/JZaEt3w==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\iDentalSoft_ex1\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84826\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\84826\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\84826\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\84826\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\84826\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\84826\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\Download\iDentalSoft_ex1\DAO_L\bin\Debug\netstandard2.1\DAO_L.deps.json
+D:\Download\iDentalSoft_ex1\DAO_L\bin\Debug\netstandard2.1\DAO_L.dll
+D:\Download\iDentalSoft_ex1\DAO_L\bin\Debug\netstandard2.1\DAO_L.pdb
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.csproj.AssemblyReference.cache
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.AssemblyInfoInputs.cache
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.AssemblyInfo.cs
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.csproj.CoreCompileInputs.cache
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.dll
+D:\Download\iDentalSoft_ex1\DAO_L\obj\Debug\netstandard2.1\DAO_L.pdb

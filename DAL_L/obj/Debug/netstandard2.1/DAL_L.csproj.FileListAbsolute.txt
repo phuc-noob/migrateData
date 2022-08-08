@@ -1,0 +1,13 @@
+D:\Download\iDentalSoft_ex1\DAL_L\bin\Debug\netstandard2.1\DAL_L.deps.json
+D:\Download\iDentalSoft_ex1\DAL_L\bin\Debug\netstandard2.1\DAL_L.dll
+D:\Download\iDentalSoft_ex1\DAL_L\bin\Debug\netstandard2.1\DAL_L.pdb
+D:\Download\iDentalSoft_ex1\DAL_L\bin\Debug\netstandard2.1\DAO_L.dll
+D:\Download\iDentalSoft_ex1\DAL_L\bin\Debug\netstandard2.1\DAO_L.pdb
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.csproj.AssemblyReference.cache
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.AssemblyInfoInputs.cache
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.AssemblyInfo.cs
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.csproj.CoreCompileInputs.cache
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.csproj.CopyComplete
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.dll
+D:\Download\iDentalSoft_ex1\DAL_L\obj\Debug\netstandard2.1\DAL_L.pdb

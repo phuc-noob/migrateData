@@ -1,0 +1,6 @@
+D:\Download\iDentalSoft_ex1\DAO_\bin\Debug\DAO_.dll
+D:\Download\iDentalSoft_ex1\DAO_\bin\Debug\DAO_.pdb
+D:\Download\iDentalSoft_ex1\DAO_\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Download\iDentalSoft_ex1\DAO_\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Download\iDentalSoft_ex1\DAO_\obj\Debug\DAO_.dll
+D:\Download\iDentalSoft_ex1\DAO_\obj\Debug\DAO_.pdb
